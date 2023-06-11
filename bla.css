@@ -1,0 +1,31 @@
+h3,h2 {
+ color:darkblue;
+}
+
+hı{
+    color:darkorchid;
+}
+
+.text-ort{
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.text-up{
+    text-transform: uppercase;
+}
+
+.text-yan{
+    width: 1000px;float: left;
+}
+.fs-20{
+    font-size: 20px;
+}
+
+.fs-30{
+    font-size: 30px;
+}
+.fs-50{
+    font-size: 50px;
+}
